@@ -26,8 +26,7 @@ I'm always open to networking, collaborating on projects, and sharing knowledge 
 🌟 Fun Fact
 When I'm not immersed in the world of networks, you can find me go on a walk with my kid and explore cars.
 
-🔭 Waht you will find in my repository
-You can find Packet tracer configuration and solution lab files build using open source materials - Cisco Lab Manuals, Famous Routing books and Examples from youtube videos. 
-- Documentation explaining topology and protocols used in lab file.
+🔭 What you will find in my repository
+You can find Packet tracer configuration and solution lab files build using open source materials - Cisco Lab Manuals, Famous Routing books and projects from youtube videos along with documentation.
 
 Thanks for stopping by, and let's build the future of networking together! 🚀
